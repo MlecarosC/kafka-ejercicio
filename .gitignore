@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignorar properties con credenciales
+producer/src/main/resources/application.properties
+consumer/src/main/resources/application.properties
